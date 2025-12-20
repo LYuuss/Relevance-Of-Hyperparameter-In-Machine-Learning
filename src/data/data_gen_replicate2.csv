@@ -1,0 +1,11 @@
+learning_rate,batch_size,dropout_rate,accuracy
+0.001,32,0.2,0.9895 done
+0.001,32,0.5,0.9894  done
+0.001,128,0.2,0.9891 done
+0.001,128,0.5,0.9884 done
+0.01,32,0.2,0.9818 done
+0.01,32,0.5,0.9811 done
+0.01,128,0.2,0.9868 done
+0.01,128,0.5,0.9855 done
+
+learning_rate, batch_size, dropout_rate,accuracy
