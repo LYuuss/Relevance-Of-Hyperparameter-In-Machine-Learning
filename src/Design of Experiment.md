@@ -88,7 +88,8 @@ Residuals                              8 1.5050e-06 1.8800e-07
 
 ![q-q residuals](images/QQ_residuals.png)
 
-![scale location](images/scale_location.png)
+![scale location](images/scale_location.png)  
+![plots](./AIV2.pdf)
 
 ### Correlation Matrix
 ![correlation matrix](images/matrix_correlation.png)
