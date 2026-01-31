@@ -83,13 +83,8 @@ learning_rate:batch_size:dropout_rate  1 7.6000e-08 7.6000e-08   0.4020   0.5437
 Residuals                              8 1.5050e-06 1.8800e-07                       
 ```
 
-### Residuals
-![residual fitted](images/Residual_fitted.png)
-
-![q-q residuals](images/QQ_residuals.png)
-
-![scale location](images/scale_location.png)  
-![plots](./AIV2.pdf)
+### Residuals 
+![residual_fitted; q-q residuals; scale location](./AIV2.pdf)
 
 ### Correlation Matrix
 ![correlation matrix](images/matrix_correlation.png)
